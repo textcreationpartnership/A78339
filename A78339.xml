@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of the petitions, ordered to be drawn up and presented to the Honourable House at their next session</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78339</idno>
+            <idno type="STC">Wing C1408A</idno>
+            <idno type="STC">ESTC R212842</idno>
+            <idno type="EEBO-CITATION">99897160</idno>
+            <idno type="PROQUEST">99897160</idno>
+            <idno type="VID">133450</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78339)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133450)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2474:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of the petitions, ordered to be drawn up and presented to the Honourable House at their next session</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1693?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Also appears in a different setting as part of Wing C5209 "A collection of the several late petitions &amp;c. to the Honourable House", which was published in 1693.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_petitions">
+            <pb facs="tcp:133450:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 58 -->
+            <head>A Catalogue of the Petitions, ordered to be drawn up and preſented to the Honorable Houſe at their next Seſſion.</head>
+            <list>
+               <item>A Petition of the Brewers and Butchers, that the former may be incorporated with the Vintners; and the lat<g ref="char:EOLhyphen"/>ter with the Apothecaries.</item>
+               <item>A Petition of the Banbox-men and Trunk-makers, that the <hi>Athenian Mercury,</hi> and all Weekly Papers of the like nature be continued.</item>
+               <item>A Petition of 20000 Tradeſmen, that if their Wives offer to draw Bills more than once a Night upon them, they may be empowered honourably to reject them.</item>
+               <item>A Petition of the Quack-Doctors, that the Conſtables may not diſturb the induſtrious Night-walkers in the <hi>Strand, Fleet-street,</hi> and <hi>Cheapſide.</hi>
+               </item>
+               <item>A Petition of Doctor <hi>S-lm-n,</hi> and two more of the Fraterni<g ref="char:EOLhyphen"/>ty, that they may have the ſole Benefit of a new Religion, by them lately invented, and that no other Perſons preſume to in<g ref="char:EOLhyphen"/>terlope upon them.</item>
+               <item>A Petition of the Quakers, that their bare Word may be equivalent to Swearing; and Nonſence to true Reaſoning; and likewiſe that it may be lawful for them to fornicate out of their own Tribe.</item>
+               <item>A Petition of all the married Women in the Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> that the Dog-days be immediately repealed.</item>
+               <item>A Petition of the moderate Divines, that the 30th. of <hi>Jan.</hi> and 29th. of <hi>May</hi> be diſcarded out of the Almanack, as being great Eye ſores to the Godly Party.</item>
+               <item>A Petition of the Maids, that the Moſaical Signs of Virgini<g ref="char:EOLhyphen"/>ty, be declared void and unneceſſary, and unfit to be required under the Chriſtian Diſpenſation.</item>
+               <item>
+                  <pb facs="tcp:133450:2"/>
+                  <!-- PDF PAGE 59 -->
+A Petition of the Ribbon-Weavers, that Shoulder-Knots and Pantaloons of happy Memory be revived.</item>
+               <item>A Petition of the Bookſellers, to declare, that Licenſing of Books is Popiſh and Superſtitious, and deſtructive of the Liber<g ref="char:EOLhyphen"/>ty of the Subject.</item>
+               <item>A Petition of the Inhabitants of <hi>White-Fryars,</hi> that their Bounds be enlarged, that they may have room enough to re<g ref="char:EOLhyphen"/>ceive the broken Merchants and Tradeſmen that daily flock in to them.</item>
+               <item>A Petition of the Poets for a ſpeedy Reſtauration of Claret, and the utter Baniſhment of little diminutive <hi>Pagan</hi> Bottles.</item>
+               <item>A Petition of the Midwives and Highway-men that <hi>Savin</hi> and <hi>Hemp</hi> be rooted out of the Common-wealth.</item>
+               <item>A Petition of the Glaſiers and Tallow-Chandlers, that it may be lawful to break Windows on Thankſgiving-days, where no Lights are ſet out.</item>
+               <item>A Petition of Dr. <hi>Otes,</hi> that every Evidence for the future ſhall be obliged to repair to him for a Licence.</item>
+               <item>A Petition of the Priſoners in <hi>Newgate,</hi> that their Confeſſions and dying Speeches may not be Printed before they are Hanged.</item>
+               <item>A Petition of Dr. <hi>Partridge,</hi> that no Almanack-maker pre<g ref="char:EOLhyphen"/>tend to propheſie for the Government but himſelf.</item>
+               <item>A Petition of the Fidlers, that kicking down Stairs, and brok<g ref="char:EOLhyphen"/>en Heads be reckoned no Scandal.</item>
+               <item>A Petition of the Players, that they may be allowed Plurality of Wives, in order to be ſure of a Maidenhead once in their Lives.</item>
+               <item>A ſecond Petition of the Bookſellers, that when a dull heavy Book lies upon their Hands, it may be publickly burnt to pro<g ref="char:EOLhyphen"/>mote the Sale of it.</item>
+               <item>A Petition of Bully <hi>D—ſon,</hi> and the reſt of his Brethren, that Swearing and Roaring be adjudged as effectual a Sign of Valour, as Fighting.</item>
+               <item>A Petition of ſeveral young Gentlemen of the Inns of Court, that a Statue be erected to Dr. <hi>Wall,</hi> at the publick Charge.</item>
+               <item>A Petition of the Northern Attornies, for a ſpeedy Concluſi<g ref="char:EOLhyphen"/>on of the War, becauſe at preſent the People can't ſpare Mo<g ref="char:EOLhyphen"/>ney to go to Law.</item>
+               <item>
+                  <pb facs="tcp:133450:2"/>
+                  <!-- PDF PAGE 59 -->
+A Petition of the Harlots, that Pluralities be denied to all married Women, of what Degree or Quality ſoever.</item>
+               <item>A Petition of the Coffee-Houſes, that they may be priviledged in Fornication up Stairs, and for Treaſon and falſe news below.</item>
+               <item>A Petition of the Country Parſons, that, in Favour of them, the Houſe will be pleaſed to take off the additional Duty upon Tabacco.</item>
+               <item>A Petition of the City Clergymen's Daughters, that <hi>Increaſe and Multiply</hi> be made the Eleventh Commandment.</item>
+               <item>A Petition of the Knights of the Poſt, that all the Pillories in the Kingdom be burnt on the next <hi>Thanksgiving-Day.</hi>
+               </item>
+               <item>A Petition of the Tradeſmen in an about <hi>London,</hi> to prohibit the Exportation of Leather, leſt if the War ſhould continue a Year or two longer, we ſhould be forced, like our Anceſtors, to join Leather in our own Defence.</item>
+               <item>A Petition of the Drawers about the <hi>Temple</hi> and <hi>Covent-Gar<g ref="char:EOLhyphen"/>den,</hi> that they may be allowed to lie a Bed till Eleven.</item>
+               <item>A Petition of the Royal Society, that the Comb-makers, Mouſe-Trap Men, and <hi>Athenians,</hi> be ſuppreſſed, as Interlopers upon them.</item>
+               <item>A Petition of the Chimney-Sweepers, that they may have the ſcouring of all <hi>Eccleſiaſtical</hi> Conſciences every Spring and Fall.</item>
+               <item>A Petition of the City, that none be ſuffer'd to talk Treaſon, but ſuch as are well-affected to the Common-wealth.</item>
+               <item>A Petition of the College of Phyſicians, that the Importation of <hi>Dutch</hi> Doctors be prohibited, as prejudicial to the Manu<g ref="char:EOLhyphen"/>facture of our own Univerſities.</item>
+               <item>A Petition of the Taylors, that Leave be given to bring in a long Bill to promote new Faſhions.</item>
+               <item>A Petition of the Sea-men, that the Parſons may not meddle with Politicks, but every one keep in his own Element.</item>
+               <item>A Petition of the Barbers, that they may be made Free of the Church, ſince the Divines have uſurped upon their Trade by turning Trimmers.</item>
+               <item>A Petition of the Country Inn-keepers, that the Soldiers quar<g ref="char:EOLhyphen"/>tered in their Houſes wou'd be content to Tap their Hogſheads, but not their Wives or Daughters.</item>
+               <item>A Petition of the diſſenting Divines, that none ſhall be admitted into the <hi>Claſs,</hi> but Men of ſtrong Lungs, and ſtronger Backs.</item>
+               <item>
+                  <pb facs="tcp:133450:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 60 -->
+A Petition of the Anabaptiſts, that they may be empower'd to erect a publick Dipping Pond at <hi>Lambeth Ferry.</hi>
+               </item>
+               <item>A Petition of the Painters, that they may have leave to enter all the Conventicles in Town, and draw their reſpective Pa<g ref="char:EOLhyphen"/>ſtors in their proper Colours.</item>
+               <item>A Petition of the Waſtcoateers of <hi>Wapping,</hi> that it may be lawful for them to go ſixteen Months with Child, in Caſes of Neceſſity.</item>
+               <item>A Petition of the Printers, that all Diſtinctions of Bawdry, Blaſphemy and Treaſon be utterly aboliſhed.</item>
+               <item>A Petition of the Proctors of the Commons to have Fornica<g ref="char:EOLhyphen"/>tion encouraged, that they may have the ſole puniſhing of it afterwards.</item>
+               <item>A Petition of the Claret-drinkers, tha Red Noſes ſhall qua<g ref="char:EOLhyphen"/>lifie People for all ſorts of Preferment.</item>
+               <item>A Petition of ſeveral Mayors and Aldermen, that Money be adjudged to comprehend both Wit and Senſe, and good Breeding.</item>
+               <item>A Petition of ſeveral Recorders in the Kingdom, that making of Speeches be utterly aboliſhed, unleſs <hi>Bulls</hi> be tolerated.</item>
+               <item>A Petition of the Ordinary of <hi>Newgate,</hi> that all ſorts of break<g ref="char:EOLhyphen"/>ing be declared ſinful, but eſpecially Sabbath-breaking.</item>
+               <item>A Petition of the Orphans, that the Monument be hung with Mourning once a Year, and that at the Expence of the Chamber.</item>
+               <item>A Petition of the ſeveral Ladies living near <hi>Weſtminster,</hi> that all Deſerters be brought to condign Puniſhment.</item>
+               <item>A Petition of the <hi>Athenians,</hi> that they may have a Patent for their new Invention of making ſecond hand <hi>Spira</hi>'s.</item>
+               <item>A Petition of the Pariſh Clarks, that a Day be ſet apart to Celebrate the Pious Memory of <hi>Hopkins</hi> and <hi>Sternhold,</hi> and that the City Poet draw up the Service for the Day.</item>
+            </list>
+            <epigraph>
+               <q>
+                  <l>And for your Worſhips then we'll pray,</l>
+                  <l>For eke, for ever, and for ay.</l>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
